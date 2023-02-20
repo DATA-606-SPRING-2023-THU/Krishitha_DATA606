@@ -1,4 +1,4 @@
-# Capstone Project Data 606
+# Draft Proposal
 
 ## Project Title: Brain Tumor Dectection from MRI images 
 
